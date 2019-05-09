@@ -1,0 +1,5 @@
+cria um banco chamado "teste"
+
+create table usuarios (id integer auto_increment primary key, nome varchar(80), email varchar(80), telefone varchar(15))
+
+a pagina principal do portal é 'principal.php'
